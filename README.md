@@ -1,5 +1,7 @@
 # Sorting Algorithms Benchmark (C)
 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Gnuplot](https://img.shields.io/badge/Gnuplot-visualisation-informational) ![Algorithmes](https://img.shields.io/badge/Algorithmes_de_tri-9-success)
+
 Comparaison des performances de neuf algorithmes de tri, implémentés en C, en fonction de la taille du tableau à trier. Les temps d'exécution sont mesurés puis tracés avec Gnuplot.
 
 ## Algorithmes comparés
